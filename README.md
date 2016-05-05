@@ -12,7 +12,7 @@ Currently only 2 people can talk, development for more is in progress.
 **Step 3:**  Start chatting.
 
 
-It's going to ask you network permission to chat. **Pelase GRANT !**
+It's going to ask you network permission to chat. **Please GRANT !**
 
 ### Screenshots of the Tool
 

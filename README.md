@@ -19,15 +19,15 @@ It's going to ask you network permission to chat. **Please GRANT !**
 
 **1) To enter Server IP:**
 
-![screenshot](https://jquery-file-upload.appspot.com/image%2Fjpeg/2274298984/screenshot%201.JPG)
+![screenshot](https://raw.githubusercontent.com/TilakMaddy/Private-Messenger/master/screenshot%201.JPG)
 
 **2) To start server:**
 
-![screenshot](https://jquery-file-upload.appspot.com/image%2Fjpeg/3285428552/screenshot%202.JPG)
+![screenshot](https://raw.githubusercontent.com/TilakMaddy/Private-Messenger/master/screenshot%202.JPG)
 
 **3) While chatting:**
 
-![screenshot](https://jquery-file-upload.appspot.com/image%2Fjpeg/1272303078/screenshot%203.JPG)
+![screenshot](https://raw.githubusercontent.com/TilakMaddy/Private-Messenger/master/screenshot%203.JPG)
 
 
 ### Legal Disclaimer
